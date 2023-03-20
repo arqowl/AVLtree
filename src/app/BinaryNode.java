@@ -1,3 +1,5 @@
+package app;
+
 public class BinaryNode {
   public int value;
   public int height;
